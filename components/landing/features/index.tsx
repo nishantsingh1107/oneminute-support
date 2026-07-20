@@ -9,12 +9,12 @@ const Features = () => {
                     Designed for trust.
                 </h2>
                 <p className='text-xl text-zinc-500 font-light max-w-xl leading-relaxed'>
-                    Most AI support tools halucinate. Ours is strictly grounded in your
+                    Most AI support tools hallucinate. Ours is strictly grounded in your
                     content, with a personality you control.
                 </p>
             </div>
 
-            <div className='grid drid-cols-1 md:grid-cols-3 gap-8'>
+            <div className='grid grid-cols-1 md:grid-cols-3 gap-8'>
                 <div className='group p-8 rounded-3xl border border-white/5 bg-linear-to-b from-white/3 to-transparent hover:border-white/10 transition-colors '>
                     <div className='w-12 h-12 rounded-2xl bg-[#0A0A0E] border border-white/10 flex items-center justify-center mb-6 group-hover:scale-105 transition-transform'>
                         <BookOpen className='w-6 h-6 text-zinc-300' />
@@ -49,7 +49,7 @@ const Features = () => {
                         Tone Matching
                     </h3>
                     <p className='text-sm text-zinc-400 font-light leading-relaxed'>
-                        Wheather you&apos;re professional, quirky, or concise, the AI mimics
+                        Whether you&apos;re professional, quirky, or concise, the AI mimics
                         your brand voice perfectly.
                     </p>
                 </div>

@@ -10,7 +10,7 @@ const Integration = () => {
                     </h2>
                     <p className='text-lg text-zinc-400 font-light mb-8 leading-relaxed'>
                         No complex SDKs or user syncing. Just add our script tag and
-                        you&apos;re live. we inherit your css variables automatically.
+                        you&apos;re live. We inherit your CSS variables automatically.
                     </p>
 
                     <div className='flex flex-col gap-4'>
