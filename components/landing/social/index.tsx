@@ -5,7 +5,7 @@ const SocialProof = () => {
         <section className='py-12 border-y border-white/5 bg-black/20'>
             <div className='max-w-6xl mx-auto px-6 text-center'>
                 <p className='text-xs font-medium text-zinc-600 uppercase tracking-widest mb-8'>
-                    Trusted by modern product terms
+                    Trusted by modern product teams
                 </p>
 
                 <div className='flex flex-wrap justify-center gap-12 md:gap-20 opacity-40 grayscale'>
@@ -14,7 +14,7 @@ const SocialProof = () => {
                         ACME
                     </span>
                     <span className='text-lg font-bold tracking-tight text-white flex items-center gap-1'>
-                        <div className='w-4 h-4 bg-white rounded-full'></div> Sphere
+                        <span className='w-4 h-4 bg-white rounded-full' aria-hidden="true" /> Sphere
                     </span>
                     <span className='text-lg font-semibold tracking-tight text-white'>
                         NEXUS

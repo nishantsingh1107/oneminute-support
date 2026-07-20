@@ -44,7 +44,7 @@ const Pricing = () => {
                             <Check className='w-4 h-4 text-indigo-400' /> Unlimited Conversations
                         </li>
                         <li className='flex items-center gap-3'>
-                            <Check className='w-4 h-4 text-indigo-400' /> Unlimited Knowledge Source
+                            <Check className='w-4 h-4 text-indigo-400' /> Unlimited Knowledge Sources
                         </li>
                         <li className='flex items-center gap-3'>
                             <Check className='w-4 h-4 text-indigo-400' /> Community Support
